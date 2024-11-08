@@ -9,7 +9,9 @@ A simple round-robin load balancer implemented in Go. This application distribut
 - Configurable backend servers through command-line arguments
 - Lightweight Docker image for easy deployment
 
-![image](https://github.com/user-attachments/assets/1423462a-1dc3-490e-994b-1be44790a7b2)
+
+![image](https://github.com/user-attachments/assets/83926bac-f4f6-4fbc-8f75-3388d3a5fed3)
+
 
 
 
